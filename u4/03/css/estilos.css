@@ -1,0 +1,13 @@
+description{
+    margin: 6px;
+    margin-bottom: 7px;
+    color: red;
+    border: solid lightgreen 4px;
+    display: block;
+}
+lenguaje{
+    display: inline;
+}
+programmingLanguages{
+    display: flex;
+}

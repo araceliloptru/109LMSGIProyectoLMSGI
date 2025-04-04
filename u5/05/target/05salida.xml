@@ -1,0 +1,32 @@
+<? xml version="1.0" encoding="UTF-8"?>
+<root>
+
+<row>
+<Anyo>2012</Anyo>
+<Concepto>Usuarios registrados </Concepto>
+<Usuarios_registrados>53577</Usuarios_registrados>
+</row>
+<row>
+<Anyo>2012</Anyo>
+<Concepto>Prestamos </Concepto>
+<Usuarios_registrados>315402</Usuarios _registrados>
+</row>
+<row>
+<Anyo>2012</Anyo>
+<Concepto>Asistentes a actividades de animacion</Concepto>
+<Usuarios_registrados>24461</Usuarios_registrados>
+</row>
+<row>
+<Anyo>2012</Anyo>
+<Concepto>Usos de la sala de lectura</Concepto>
+<Usuarios_registrados>254146</Usuarios_registrados>
+</row>
+<row>
+<Anyo>2012</Anyo>
+<Concepto>Horas de uso multimedia</Concepto>
+<Usuarios_registrados>122043</Usuarios_registrados>
+</row>
+<row>
+<Anyo>2013</Anyo>
+</row>
+</root>

@@ -1,0 +1,87 @@
+/* estilos*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+/* mi header */
+header {
+    background-color: #e60012;
+    color: white;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 10;
+}
+
+header .logo img {
+    height: 40px;
+}
+/* sección hero */
+#fondo {
+    background: url(/109LMSGIProyectoLMSGI/webroot/media/background3.png) no-repeat center center/cover;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    padding-top: 80px; /* para así no tapar el header */
+}
+
+#fondo h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+#fondo p {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+/* sección temas */
+.prog {
+    padding: 50px 20px;
+    text-align: center;
+    background-color: #fff;
+}
+
+.prog h2 {
+    font-size: 36px;
+    margin-bottom: 40px;
+}
+
+.prog-item {
+    display: inline-block;
+    width: 250px;
+    margin: 20px;
+    text-align: center;
+}
+
+.prog-item img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.prog-item p {
+    font-size: 18px;
+}
+
+/* mi footer */
+footer {
+    background-color: #e60012;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
